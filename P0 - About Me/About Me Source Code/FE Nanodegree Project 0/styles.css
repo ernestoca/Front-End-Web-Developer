@@ -74,14 +74,15 @@ h1 {
 .hero {
   padding: 1em;
   max-width: 100%;
-  background-color: #294860;
+  background-color: #378bff;
   color: white;
 }
 
 .my-picture {
   display: block;
   margin: 0 auto 10px;
-  width: 100%;
+  height: 450px;
+  max-width: 100%;
   border: 2px solid white;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -90,7 +91,7 @@ h1 {
 
 .iama {
   max-width: 100%;
-  color: #969696;
+  color: #abcca3;
   letter-spacing: 0.05em;
   font-size: 20px;
   margin: 0;
